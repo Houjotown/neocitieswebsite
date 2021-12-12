@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link href="style.css" rel="stylesheet" type="text/css" media="all" />
+
+      <div class="header">
+        <h1 class="marquee"> <span>Welcome to Houjotown</span> </h1> 
+      </div>
+      
+       <div class="buffer"> </div>
+
+
+    <body>
+     
+      <div class="body">
+        <h2 class="textbuffer"></h2>
+        <h2>About:</h2>
+
+        <p>
+          Houjotown exists mainly as a general portfolio site for anything I tie
+          to the username Houjotown. General programming projects, games, etc.
+          Houjotown also exists as an introduction and experimentation site for
+          my own webdev, and as such will routinely undergo maintenance and
+          shifts in looks. Houjotown also exists for anything else I may feel
+          interested in posting, but what that is remains unclear to me as of
+          right now.
+        </p>
+
+        <h2>Updates:</h2>
+        <p>12/12/21: First Update: Made the first theme, focused on a lightish blue/purple colour range and stayed within css functionality </p>
+        <p> 07/12/21: Site Initial Creation </p>
+      </div>
+    </body>
+
+    <div class="externals">
+        <h5 id ="links">|Externals|<a href="https://github.com/Houjotown">Github</a>|<a href="https://houjotown.itch.io/">Itch.io</a>|<a href="houjotown@gmail.com">Email</a>|</h5>
+        <h5 id ="siteconstruction">|site under construction|</h5>
+    </div>
+
+
+    
+  </div>
+</html>
